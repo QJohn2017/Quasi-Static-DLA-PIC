@@ -40,15 +40,13 @@ A simple & working Makefile is included [Makefile](Makefile).
 
 ## Simulation Example
 **Plasma Wave Driven by Point-like Charge in Large-Bubble Regime** 
-![logo]https://github.com/tianhongg/Quasi-Static-DLA-PIC/blob/master/Resource/Point_Driver.png
+![logo](https://github.com/tianhongg/Quasi-Static-DLA-PIC/blob/master/Resource/Point_Driver.png)
 
 
 
 **Intense Laser Pulse Propagates in the Tenuous Plasma** 
-![logo]https://github.com/tianhongg/Quasi-Static-DLA-PIC/blob/master/Resource/Laser_Driver.png
+![logo](https://github.com/tianhongg/Quasi-Static-DLA-PIC/blob/master/Resource/Laser_Driver.png)
 
-
-**Electron Beam Propagates in the Tenuous Plasma **
 
 
 ## Developing
