@@ -40,13 +40,12 @@ A simple & working Makefile is included [Makefile](Makefile).
 
 ## Simulation Example
 **Plasma Wave Driven by Point-like Charge in Large-Bubble Regime** 
-
+![logo]https://github.com/tianhongg/Quasi-Static-DLA-PIC/blob/master/Resource/Point_Driver.png
 
 
 
 **Intense Laser Pulse Propagates in the Tenuous Plasma** 
-![logo](https://github.com/tianhongg/WAND-PIC/blob/master/Resource/Example_LWFA.gif)
-
+![logo]https://github.com/tianhongg/Quasi-Static-DLA-PIC/blob/master/Resource/Laser_Driver.png
 
 
 **Electron Beam Propagates in the Tenuous Plasma **
@@ -73,25 +72,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 [About DLA_1](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.114.184801); [DLA_2](https://aip.scitation.org/doi/abs/10.1063/1.5036967)
 
 [About our group](https://shvets.aep.cornell.edu)
-
-```
-||----------------------------------------------------------------------------------||
-||----------------------------------------------------------------------------------||
-||                                                                                  ||
-||               __        ___    _   _ ____        ____ ___ ____                   ||
-||               \ \      / / \  | \ | |  _ \      |  _ \_ _/ ___|                  ||
-||                \ \ /\ / / _ \ |  \| | | | |_____| |_) | | |                      ||
-||                 \ V  V / ___ \| |\  | |_| |_____|  __/| | |___                   ||
-||                  \_/\_/_/   \_\_| \_|____/      |_|  |___\____|                  ||
-||                                                                                  ||
-||----------------------------------------------------------------------------------||
-||--  (W)akefield (A)cceleration a(n)d (D)LA - (P)article (i)n (C)ell Simulation  --||
-||----------------------------------------------------------------------------------||
-||---Author-----------           : Tianhong Wang                --------------------||
-||---Starting---------           : Jan-11-2019                  --------------------||
-||---Email------------           : tw474@cornell.edu            --------------------||
-||---Group------------           : Dr. Gennady Shvets' Group    --------------------||
-||---Copyright--------           : (C) 2019 by Tianhong Wang    --------------------||
-||----------------------------------------------------------------------------------||
-||----------------------------------------------------------------------------------||
-```
