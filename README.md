@@ -28,7 +28,7 @@ netcdf
 ## Compiling
 Just Make It! 
 
-A simple & working Makefile is included [Makefile](Makefile). 
+A simple & working Makefile is included [Makefile](QS_DLA_2D/Makefile). 
 
 
 ## Running
@@ -40,17 +40,19 @@ A simple & working Makefile is included [Makefile](Makefile).
 
 ## Simulation Example
 **Plasma Wave Driven by Point-like Charge in Large-Bubble Regime** 
+(Left: electron density; right: wake potential. Charge moving from right to left)
 ![logo](https://github.com/tianhongg/Quasi-Static-DLA-PIC/blob/master/Resource/Point_Driver.png)
 
 
 
 **Intense Laser Pulse Propagates in the Tenuous Plasma** 
+(Charge moving from left to right)
 ![logo](https://github.com/tianhongg/Quasi-Static-DLA-PIC/blob/master/Resource/Laser_Driver.png)
 
 
 
 ## Developing
-
+QS-DLA-PIC is a FORTRAN-based serial simulation tool developed during my research. I first developed this code with Dr. Vladimir N. Khudik to verify some new equations we derived and also to simulate plasma wave driven by the point-charge. Then this code is upgraded to simulate laser-driven and beam driven plasma wakefield acceleration.  Although  QS-DLA is a 'single-core' simulation code, it's still very fast on most desktops due to the new equations we used. And you don't need to wait in the queue! It serves as a great tool if you just want to do some small-size simulations, or do a quick check of simulation parameters before you run larger 3D simulation on the supercomputers. More-powerful WAND-PIC has been developed by me later, but this is still a irreplaceable tool in my research.
 
 
 
