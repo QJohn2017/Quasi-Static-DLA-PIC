@@ -64,11 +64,3 @@ QS-DLA-PIC is a FORTRAN-based serial simulation tool developed during my researc
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-
-
-#### Reference
-[About some of the algorithms](https://aip.scitation.org/doi/abs/10.1063/1.4999629)
-
-[About DLA_1](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.114.184801); [DLA_2](https://aip.scitation.org/doi/abs/10.1063/1.5036967)
-
-[About our group](https://shvets.aep.cornell.edu)
