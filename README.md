@@ -1,7 +1,7 @@
 # Quasi-Static-DLA-PIC
 
 
-**Q**ausi-**S**tatic **D**irect **L**aser **A**cceleration -- **P**article **i**n **C**ell Simulation.
+**Q**uasi-**S**tatic **D**irect **L**aser **A**cceleration -- **P**article **i**n **C**ell Simulation.
 
 **QS-DLA-PIC** is a **serial** quasi-static particle-in-cell simulation code, written in the forgotten language **Fortran**. Developed by Tianhong Wang in 2017, at Dr. Gennady Shvets' Group, Cornell University.
 
